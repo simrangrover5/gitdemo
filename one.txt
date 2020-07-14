@@ -5,3 +5,6 @@ how are you
 
 
 bye bye
+
+def add(a,b):
+  return a+b
